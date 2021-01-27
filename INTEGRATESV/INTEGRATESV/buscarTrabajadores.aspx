@@ -19,6 +19,7 @@
                 </div>
             </div>
             <label>PRUEBA</label>
+            <label>PRUEBA eliud</label>
             <div class="form-check form-check-inline">
                  <asp:Label ID="Label4" runat="server" class="form-check-label" for="CheckBox1" Text="Filtrar por:"></asp:Label>
                 
